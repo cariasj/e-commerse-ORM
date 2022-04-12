@@ -10,6 +10,7 @@ class Product extends Model {}
 Product.init(
   {
     // define columns
+    
   },
   {
     sequelize,
