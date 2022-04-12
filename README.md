@@ -28,5 +28,5 @@ THEN I am able to successfully create, update, and delete data in my database
 Add .env file with credentials
 npm run start
 
-## Video Link 
+## Video Link (download if poor video quality)
 https://drive.google.com/file/d/1EZ8oKMeWymIrutGSEJmKlh1U8WSlXNpY/view?usp=sharing
