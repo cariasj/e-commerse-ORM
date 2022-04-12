@@ -3,6 +3,9 @@
 ## Descritpion
 Back end functionality for e-commerce site
 
+![image](https://user-images.githubusercontent.com/25235663/163055411-84c0066b-3a83-4e37-851f-d056ba444092.png)
+
+
 # User Story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
